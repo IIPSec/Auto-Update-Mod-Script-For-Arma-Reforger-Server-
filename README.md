@@ -1,6 +1,8 @@
 # Auto-Update-Mod-Script-For-Arma-Reforger-Server-
 Auto-Update Mod Script (For Arma Reforger Server)
 
+https://www.youtube.com/watch?v=IhseMMirc_k
+
 1) Prerequisites:
 - Install Python
 - Install beautifulsoup: py -m pip install requests beautifulsoup4
